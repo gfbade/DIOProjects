@@ -3,7 +3,7 @@ This Dino Game was a guided class by Celso Henrique at GFT bootcamp 2021 (https:
 
 ## My personal changes was:
 - The dinosaur position. I tought it didn't look good attached to the corner.
-- I reduced 1% of the background size so it don't create a scroll bar on the bottom.
+- Removed the body magin so the background size don't create a scroll bar on the bottom.
 - Created a begin function to start/reset the game.
 - Added a if(isGameOver) on the handleKeyup() to use the space bar to either jump or start a new game.
 - Added a leftIntervalList to map all cactus intervals and clear them in a game over event.
