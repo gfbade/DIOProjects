@@ -1,0 +1,16 @@
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.csprojAssemblyReference.cache
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.AssemblyInfoInputs.cache
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.AssemblyInfo.cs
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.csproj.CoreCompileInputs.cache
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.exe
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.deps.json
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.runtimeconfig.json
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.runtimeconfig.dev.json
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.dll
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\ref\SomaTo300.dll
+D:\Docs\DIOProjects\SomaTo300\bin\Debug\net5.0\SomaTo300.pdb
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.dll
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\ref\SomaTo300.dll
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.pdb
+D:\Docs\DIOProjects\SomaTo300\obj\Debug\net5.0\SomaTo300.genruntimeconfig.cache

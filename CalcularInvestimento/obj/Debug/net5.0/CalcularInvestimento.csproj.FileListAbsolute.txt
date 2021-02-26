@@ -1,0 +1,5 @@
+D:\Docs\DIOProjects\CalcularInvestimento\obj\Debug\net5.0\CalcularInvestimento.csprojAssemblyReference.cache
+D:\Docs\DIOProjects\CalcularInvestimento\obj\Debug\net5.0\CalcularInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\DIOProjects\CalcularInvestimento\obj\Debug\net5.0\CalcularInvestimento.AssemblyInfoInputs.cache
+D:\Docs\DIOProjects\CalcularInvestimento\obj\Debug\net5.0\CalcularInvestimento.AssemblyInfo.cs
+D:\Docs\DIOProjects\CalcularInvestimento\obj\Debug\net5.0\CalcularInvestimento.csproj.CoreCompileInputs.cache
